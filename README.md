@@ -34,4 +34,4 @@ audio files each.
 
 For further details on the project, kindly refer to the pdf on the link below:
 
-[🔗 Heartbeat Classification pdf](https://github.com/syedmohiuddinzia/mitralValveAbnormalityDetection/blob/main/Heartbeat%20Classification.pdf)
+[🔗 Heartbeat Audio Classification pdf](https://github.com/syedmohiuddinzia/mitralValveAbnormalityDetection/blob/main/Heartbeat%20Classification.pdf)
